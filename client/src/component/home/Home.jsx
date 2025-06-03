@@ -1,0 +1,1 @@
+// combine navbar, singerInfo and socialMedia (footer)

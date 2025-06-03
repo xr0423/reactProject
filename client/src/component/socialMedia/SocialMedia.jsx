@@ -1,0 +1,1 @@
+// social media icon which link to the platform
